@@ -1,0 +1,5 @@
+.cache
+.local
+.npm
+.vscode-server
+.wget-hsts
